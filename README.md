@@ -1,3 +1,9 @@
+# <p align="center">⚠ Experimental branch</p>
+This is where I can plop interesting additions down that I may decide to implement (and also might break my install.) Any good-to-go changes will be merged into main branch.
+
+#
+
+
 # <p align="center">KAIROS</p>
 
 ![08-12-2022_433](https://user-images.githubusercontent.com/68311122/184456634-ddedb08d-b18f-4a78-8b4e-ef08a423b48c.png)
