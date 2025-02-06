@@ -4,13 +4,15 @@
 
 
 ##  <p align="center">screenshots</p>
-+ (neofetch & home screen)
-+ (uoabsgjnawuregbowjleNF LOWUAGHAUWJRNB)
++ (screenshot: neofetch + home screen)
++ (screenshot: gaming)
++ (screenshot: virtualization)
++ (screenshot: configuring some system file using nvim, with music player in the corner)
 
 
 ## <p align="center">stack</p>
 
-<!-- <table>
+<table>
   <tr>
     <td align="center" width="96">
       <a href="#gentoo linux link">
@@ -21,8 +23,6 @@
     
   </tr>
 </table>
-
-!-->
 
 ## <p align="center">credits</p>
 The `kairos` project itself is not bound, however the applications, images, files, and other items in this repo are likely to be bound to their respective licenses.
